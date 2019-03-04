@@ -29,4 +29,3 @@ Veoma je dobro dokumentovan, sa velikim brojem primera korišćenja. Bootstrap s
 5. Izmeniti back-end tako da se podrži pretraga beleški (Records) po imenu aktivnosti, minimalnoj dužini trajanja i intenzitetu. Pronalaze se i prikazuju beleške koje zadovoljavaju sve kriterijume. Ukoliko korisnik neko polje ne unese, vrednost tog polja se ignoriše u pretrazi.
 6. Odraditi izmenu Record entiteta na novoj stranici. Pogledati direktivu ng-selected.
 
-
